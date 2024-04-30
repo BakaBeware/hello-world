@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
+Hello hello-world, I'm new to the site and trying to understand what I'm doing here. This is an assignment for a class I'm taking and I probably wouldn't have created this account were it not a requirement. But I'm already here, so I may as well learn a thing or two while I'm at it. I'm assuming that since I chose to make this repository public, there's a chance that someone out there might actually read this. If you are that someone, I implore you to respond with your favorite function of GitHub and an explanation of why you like it. I am also happy to read any other bits of advice you might think beneficial for a noob to know. Thanks, yours truly-BakaBeware
